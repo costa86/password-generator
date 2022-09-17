@@ -33,7 +33,7 @@ A CLI password generator
 
 |OS|Architecture| File*|
 |--|--|--|
-|Linux|x86_64|[password-generator](https://github.com/costa86/safepass/blob/master/password-generator)|
+|Linux|x86_64|[password-generator](https://github.com/costa86/password-generator/blob/main/password-generator)|
 
 *Make sure you've granted executable permissions to it
 
